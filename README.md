@@ -1,2 +1,2 @@
 # SiDNet
-Our Code and model are coming soon！
+Our project and model are coming soon！
